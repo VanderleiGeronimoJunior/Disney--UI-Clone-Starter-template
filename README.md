@@ -1,4 +1,4 @@
-# relogio-digital-&-anologico
+# Disney+ UI Clone Starter template
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/92c1beac-8934-4095-82f0-af67343ea67c/deploy-status)](https://app.netlify.com/sites/transcendent-yeot-2e0134/deploys)
 
@@ -13,27 +13,28 @@
 
 ## Sobre o Projeto
 
-Relógio Digital e Analógico feito com CSS mais avançado.
+Template do Disney+ onde o objetivo foi clonar a interface da plataforma de streamer trazendo seus efeitos, cores, slider caracteristido do Disney+, o efeito das marcas destacadas da plataformae como não poderia faltar o catalogo de filmes.
 
 ## Objetivos
 
+- Construir um clone da interface do site Disney+.
 - Ganhar mais conhecimento em JavaScript.
-- Aprendeer pseudo-elementos em CSS.
+- Aprender mais CSS.
 
 
 ## Captura de tela
 
 📸
 
-#### relogio-digital-&-anologico
+#### Disney+ UI Clone Starter template
 
-<img style="width:300px" src="./assets/relogio.png" alt="tela principal">
+<img style="width:300px" src="./images/disneyplus.png" alt="tela principal">
 
 [⬆ Voltar ao topo](#índice)<br>
 
 ## Demonstração
 
-Demontração :<a href="#">relogio-digital-&-anologico</a>
+Demontração :<a href="https://disney-ui-clone-starter-template2023.netlify.app/" target="_blank">Disney+ UI Clone Starter template</a>
 
 ## Linguagens utilizadas
 
